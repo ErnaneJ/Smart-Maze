@@ -12,7 +12,7 @@
 
 <p align="center">
   <p align="center">
-  <img alt="Preview" src=".github/images/preview1.png" width="100%">
+  <img alt="Preview" src=".github/images/Preview.png" width="100%">
 </p>
 
 </p>
@@ -52,6 +52,7 @@ Execute o arquivo ``maze.exe` ou rode o programa `maze.cpp` em seu compilador `c
 
 </details>
 Run the `maze.exe` file or run the `maze.cpp` program in your `c++` compiler.
+
 ---
 
 <p align="center">

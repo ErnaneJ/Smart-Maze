@@ -1,7 +1,7 @@
 #include <iostream>
-#include <cstdlib>//for using srand() and rand() in generating random values;
-#include <ctime>//for using date and time functions with time() used with srand() to avoid sequence repetition;
-#include <stdlib.h>//just for aesthetic use, i imported the library to use the system() function with the parameter "clear||cls" which clears the windows or linux terminal screen;
+#include <cstdlib> //for using srand() and rand() in generating random values;
+#include <ctime> //for using date and time functions with time() used with srand() to avoid sequence repetition;
+#include <stdlib.h> //just for aesthetic use, i imported the library to use the system() function with the parameter "clear||cls" which clears the windows or linux terminal screen;
 
 using namespace std;
 
